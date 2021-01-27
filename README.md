@@ -15,7 +15,13 @@ Hyper，
 代码中15次commit，包含以下模块：
 #### 1.初始化项目
 #### 2.添加控制器
-#### 3.添加swagger文档支持
+### 3.添加swagger文档支持
+#### Swagger
+指的是符合 Swagger 规范的文件，用于对 API 的信息进行完整地描述。
+
+swagger文档就是API文档，
+
+swagger-ui是一个UI渲染工具
 #### 4.添加日志
 #### 5.添加错误处理
 #### 6.添加pipe
@@ -94,13 +100,6 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
-
-## Swagger
-指的是符合 Swagger 规范的文件，用于对 API 的信息进行完整地描述。
-
-swagger文档就是API文档，
-
-swagger-ui是一个UI渲染工具
 
 ## Support
 
