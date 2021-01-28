@@ -1,4 +1,4 @@
-export default {
+export default { // 定时任务
   pageTitle: 'Nest.js Monitoring Page',
   port: 3000,
   path: '/status',
