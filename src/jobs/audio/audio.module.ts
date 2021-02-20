@@ -17,4 +17,4 @@ import { AudioProcessor } from './audio.processor';
   controllers: [AudioController],
   providers: [AudioProcessor],
 })
-export class AudioModule {}
+export class AudioModule { }

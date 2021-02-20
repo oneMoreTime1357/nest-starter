@@ -4,8 +4,8 @@ export default {
   host: 'localhost',
   port: 3306,
   username: 'root',
-  password: 'xiaoerxiaoer',
-  database: 'nest',
+  password: '12345678',
+  database: 'ydTest',
   entities: [join(__dirname, '../', '**/**.entity{.ts,.js}')],
   synchronize: true,
 };
